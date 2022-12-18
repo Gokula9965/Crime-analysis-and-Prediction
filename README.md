@@ -34,6 +34,29 @@ In this module, the data undergoes pre-processing like cleaning the dataset and 
 - We can use statsmodels implementation of SARIMA.
 - Then the model is built and the graph is displayed using a seasonal pattern.
 
-### Streamlit:
+### Streamlit
 - Here Streamlit is used as GUI.
 - The user can select a particular state and crime and the graphs of  ARIMA and SARIMA models are displayed with their predicted values
+
+
+## Screenshots
+
+![Screenshot (184)](https://user-images.githubusercontent.com/86424600/208287595-79fc0d4e-62df-42c0-97ea-ff87abc57680.png)
+
+![Screenshot (185)](https://user-images.githubusercontent.com/86424600/208287596-16177fea-21d9-4b76-9fbd-8e70cfd7b593.png)
+
+![Screenshot (186)](https://user-images.githubusercontent.com/86424600/208287599-a4bd6cb5-7b1d-4e19-adb1-30b2376198be.png)
+
+![Screenshot (187)](https://user-images.githubusercontent.com/86424600/208287602-9c3ccdeb-5fc0-4bc4-a1dd-dc16f27dfdb0.png)
+
+![Screenshot (188)](https://user-images.githubusercontent.com/86424600/208287609-49453e63-2ce7-4b4b-80c7-5a064f1481d3.png)
+
+![Screenshot (189)](https://user-images.githubusercontent.com/86424600/208287612-9e727b99-4c66-4b24-8e64-e0661bfaacae.png)
+
+![Screenshot (190)](https://user-images.githubusercontent.com/86424600/208287615-5ac45e58-2ccf-426b-ac89-f6d1e206808c.png)
+
+![Screenshot (191)](https://user-images.githubusercontent.com/86424600/208287619-c76d4651-909e-4559-a415-a6066966a873.png)
+
+![Screenshot (192)](https://user-images.githubusercontent.com/86424600/208287626-d7558cba-472e-4492-b5a6-59523ac88114.png)
+
+
