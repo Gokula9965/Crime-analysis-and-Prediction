@@ -8,8 +8,9 @@ An analysis of crimes against women in India from 2001 to 2012 is taken and visu
 - Modeling
 - Predicting
 
-SYSTEM COMPONENTS(MODULES):
-### Import Libraries: In this module, different libraries like pandas, NumPy, matplotlib, and statsmodels are imported, which are useful for data processing,visualization, accuracy, and prediction.
+## SYSTEM COMPONENTS(MODULES):
+### Import Libraries: 
+In this module, different libraries like pandas, NumPy, matplotlib, and statsmodels are imported, which are useful for data processing,visualization, accuracy, and prediction.
 
 ### Data Processing:
 In this module, the data undergoes pre-processing like cleaning the dataset and removing null and unwanted values.
