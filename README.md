@@ -8,14 +8,14 @@ An analysis of crimes against women in India from 2001 to 2012 is taken and visu
 - Modeling
 - Predicting
 
-## SYSTEM COMPONENTS(MODULES):
-### Import Libraries: 
+## SYSTEM COMPONENTS(MODULES)
+### Import Libraries 
 In this module, different libraries like pandas, NumPy, matplotlib, and statsmodels are imported, which are useful for data processing,visualization, accuracy, and prediction.
 
-### Data Processing:
+### Data Processing
 In this module, the data undergoes pre-processing like cleaning the dataset and removing null and unwanted values.
 
-### Visualization:
+### Visualization
 - Initially, the data undergoes visualization for the crime given by the user.
 - Next for the entered year, visualization is done for all the crime counts for all the states in India.
 - Next the crime rate is compared for the years 2001 and 2012 (i.e for the initial and final data in the data set).
