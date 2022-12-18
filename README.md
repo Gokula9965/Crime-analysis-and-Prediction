@@ -60,4 +60,4 @@ In this module, the data undergoes pre-processing like cleaning the dataset and 
 ![Screenshot (192)](https://user-images.githubusercontent.com/86424600/208287626-d7558cba-472e-4492-b5a6-59523ac88114.png)
 
 ## Authors
-- ![@Gokula Krishnan](https://github.com/Gokula9965)
+- [@Gokula Krishnan S](https://github.com/Gokula9965)
